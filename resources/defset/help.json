@@ -1,0 +1,172 @@
+[
+  {
+    "group": "Text",
+    "list": [
+      {
+        "icon": 15,
+        "title": "/污句子",
+        "desc": ""
+      },
+      {
+        "icon": 15,
+        "title": "/随机日记",
+        "desc": ""
+      },
+      {
+        "icon": 15,
+        "title": "/舔狗日记",
+        "desc": "沸羊羊"
+      },
+      {
+        "icon": 15,
+        "title": "/新春祝福",
+        "desc": "给大家拜个早年"
+      },
+      {
+        "icon": 15,
+        "title": "/发癫+名字",
+        "desc": "嘿嘿嘿"
+      },
+      {
+        "icon": 15,
+        "title": "/网易云热评",
+        "desc": "emo了"
+      },
+      {
+        "icon": 15,
+        "title": "/今天是几号",
+        "desc": ""
+      },
+      {
+        "icon": 15,
+        "title": "/历史上的今天",
+        "desc": ""
+      },
+      {
+        "icon": 15,
+        "title": "/油价+省份",
+        "desc": "只能查省份哦"
+      }
+    ]
+  },
+  {
+    "group": "Girl",
+    "list": [
+      {
+        "icon": 21,
+        "title": "/hs",
+        "desc": "黑丝"
+      },
+      {
+        "icon": 21,
+        "title": "/bs",
+        "desc": "白丝"
+      },
+      {
+        "icon": 21,
+        "title": "/jk",
+        "desc": "JK"
+      },
+      {
+        "icon": 21,
+        "title": "/xz",
+        "desc": "写真"
+      },
+      {
+        "icon": 21,
+        "title": "/xjj",
+        "desc": "小姐姐"
+      },
+      {
+        "icon": 21,
+        "title": "/随机acg",
+        "desc": ""
+      },
+      {
+        "icon": 21,
+        "title": "/随机东方",
+        "desc": ""
+      },
+      {
+        "icon": 21,
+        "title": "/loli",
+        "desc": ""
+      },
+      {
+        "icon": 21,
+        "title": "/甜妹",
+        "desc": ""
+      },
+      {
+        "icon": 21,
+        "title": "/随机小姐姐",
+        "desc": ""
+      },
+      {
+        "icon": 21,
+        "title": "/双倍快乐",
+        "desc": ""
+      },
+      {
+        "icon": 21,
+        "title": "/玉足",
+        "desc": "返回玉足或者美腿视频二维码"
+      },
+      {
+        "icon": 21,
+        "title": "/随机裙子",
+        "desc": "返回JK或者洛丽塔视频二维码"
+      }
+    ]
+  },
+  {
+    "group": "Face",
+    "list": [
+      {
+        "icon": 33,
+        "title": "/随机柴郡",
+        "desc": "随机返回一张柴郡的表情包"
+      },
+      {
+        "icon": 33,
+        "title": "/一二布布",
+        "desc": "随机返回一张一二布布的表情包"
+      },
+      {
+        "icon": 33,
+        "title": "/鸽鸽",
+        "desc": "你肯定是个小黑子"
+      },
+      {
+        "icon": 33,
+        "title": "/随机表情",
+        "desc": "随机返回一个表情包"
+      }
+    ]
+  },
+  {
+    "group": "Tools",
+    "list": [
+      {
+        "icon": 34,
+        "title": "/url编码",
+        "desc": "/url编码+内容"
+      },
+      {
+        "icon": 34,
+        "title": "/url解码",
+        "desc": "/url解码+内容"
+      },
+      {
+        "icon": 34,
+        "title": "/base64解码",
+        "desc": "/base64解码+内容"
+      },
+      {
+        "icon": 34,
+        "title": "/base64解码",
+        "desc": "/base64解码+内容"
+      }
+    ]
+  }
+]
